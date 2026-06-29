@@ -1,15 +1,23 @@
 const cards = [
     {
-        image: "assets/images/Smartwatch1.jpg",
+        image: "accets/images/Smartwatch1.jpg",
         title: "Card One"
     },
     {
-        image: "assets/images/photo2.jpg",
+        image: "accets/images/Smartwatch2.jpg",
         title: "Card Two"
     },
     {
-        image: "assets/images/photo3.jpg",
+        image: "accets/images/Smartwatch3.jpg",
         title: "Card Three"
+    },
+    {
+        image: "accets/images/Smartwatch4.jpg",
+        title: "Card Four"
+    },
+    {
+        image: "accets/images/Smartwatch5.jpg",
+        title: "Card Five"
     }
 ];
 
