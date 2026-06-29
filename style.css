@@ -1,0 +1,107 @@
+*{
+    box-sizing:border-box;
+}
+
+
+body{
+
+    font-family:Arial;
+    background:#ddd;
+    padding:40px;
+
+}
+
+
+
+.carousel{
+
+    background:#eee;
+
+    border-radius:20px;
+
+    padding:20px;
+
+}
+
+
+
+.carousel-header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    background:#999;
+
+    color:white;
+
+    padding:15px 20px;
+
+    border-radius:15px;
+
+}
+
+
+
+button{
+
+    border:none;
+
+    padding:10px 15px;
+
+    cursor:pointer;
+
+}
+
+
+
+.cards-container{
+
+    display:flex;
+
+    gap:20px;
+
+    margin-top:20px;
+
+
+    overflow-x:auto;
+
+    scroll-behavior:smooth;
+
+}
+
+
+
+.card{
+
+    min-width:250px;
+
+    background:white;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+}
+
+
+
+.card img{
+
+    width:100%;
+
+    height:150px;
+
+    object-fit:cover;
+
+}
+
+
+
+.card h3{
+
+    padding:15px;
+
+}
