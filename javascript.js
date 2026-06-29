@@ -1,22 +1,17 @@
 const cards = [
     {
-        image: "https://picsum.photos/300/200?1",
+        image: "assets/images/Smartwatch1.jpg",
         title: "Card One"
     },
     {
-        image: "https://picsum.photos/300/200?2",
+        image: "assets/images/photo2.jpg",
         title: "Card Two"
     },
     {
-        image: "https://picsum.photos/300/200?3",
+        image: "assets/images/photo3.jpg",
         title: "Card Three"
-    },
-    {
-        image: "https://picsum.photos/300/200?4",
-        title: "Card Four"
     }
 ];
-
 
 const container = document.getElementById("cards");
 
