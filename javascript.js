@@ -18,6 +18,10 @@ const cards = [
     {
         image: "accets/images/Smartwatch5.jpg",
         title: "Card Five"
+    },
+    {
+        image: "accets/images/Smartwatch6.jpg",
+        title: "Card Six"
     }
 ];
 
