@@ -1,0 +1,44 @@
+# Card Carousel Component
+
+## Overview
+
+A responsive card carousel component based on the provided design.
+
+The component displays cards with images and titles and supports smooth horizontal scrolling with a responsive layout for desktop and mobile devices.
+
+## Features
+
+- Responsive design
+- Horizontal card carousel
+- Touch-friendly mobile interaction
+- Dynamic card rendering from JavaScript data
+- Reusable card structure
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Structure
+
+```
+project/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
+```
+
+## Implementation
+
+Cards are generated dynamically from a data array, making the component easy to maintain and extend.
+
+CSS Flexbox is used for the carousel layout and media queries handle different screen sizes.
+
+## How to Run
+
+Open `index.html` in a browser.
+
+No additional dependencies are required.
